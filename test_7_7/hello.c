@@ -6,6 +6,6 @@ int main()
     int b=20;
     int c=Max(a,b);
     printf("%d\n",c);
-    printf("hello!\n");
+    printf("heallo!\n");
     return 0;
 }
